@@ -1,0 +1,5 @@
+hamlet	2425
+thou	2970
+king	10855
+one	20075
+said	27800
